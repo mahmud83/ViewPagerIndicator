@@ -23,4 +23,4 @@ dependencies {
 }
 ```
 
-[1]: https://github.com/yayaa/ViewPagerIndicator/aar
+[1]: https://github.com/yayaa/ViewPagerIndicator/blob/master/aar/viewpagerindicator.aar
