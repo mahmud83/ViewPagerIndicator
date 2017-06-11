@@ -1,5 +1,6 @@
 Android ViewPagerIndicator
 ==========================
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Since the original library has not changed at all by 3 years, i decided to fix some depreciations. (And meanwhile i converted it into AndroidStudio Project of course)
 
